@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Akarsh Kapoor:
-💻 Computer Science Engineer with a keen interest in new and emerging technologies.<br>👨‍🎓 Graduated from Kalinga Institute of Industrial Technology, Bhubaneswar, India.<br>🗨 Currently working as a R&D Intern @Philips, India. <br>
+💻 Computer Science Engineer with a keen interest in new and emerging technologies.<br>👨‍🎓 Graduated from Kalinga Institute of Industrial Technology, Bhubaneswar, India.<br>🗨 Former R&D Intern @Philips, India. <br>
 
 
 [![](https://visitcount.itsvg.in/api?id=akarshkapoor&icon=0&color=0)](https://visitcount.itsvg.in)
